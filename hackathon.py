@@ -4,7 +4,7 @@ import numpy as np
 import time
 
 def fuc:
-    #hello world
+
    
 # Load Yolo
     net = cv2.dnn.readNet("yolov3.weights", "cfg/yolov3.cfg")
